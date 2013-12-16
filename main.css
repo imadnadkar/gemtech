@@ -1,0 +1,164 @@
+/*@charset "utf-8";
+ CSS Document */
+
+p,h1,h2,h3,h4,h5,h6 {
+	color:#333333;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+#contactInfo{
+	position:relative;
+	margin-left:760px;
+	margin-top:-8px;
+	color:white;
+	font-size:21px;
+	font-weight:bold;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+	
+
+#contactBanner{
+		margin-top: 0;
+		margin-left:690px;
+}
+
+header#outerBox{
+	width:1000px;
+	height:200px;
+}
+#first{
+	position:relative;
+	top:20px;
+	left:20px;
+	float:left;
+}
+#second{
+		position:relative;
+		top:55px;
+		left:465px;
+}
+
+body{
+	margin: 0px;
+	padding:0px;
+	
+}
+
+#logo {
+	margin-top:20px;
+	margin-left:20px;
+}
+
+div#outerDiv {
+	width:1000px;
+	margin: 50px auto;
+	background-color:#e8ede0;
+
+
+}
+
+nav {
+	width:1000px;
+	height:140px;
+}
+nav ul li a {
+	position:relative;
+	color:#ffffff;
+	font-size:20px;
+
+	top:-90px;
+	float:left;
+
+
+}
+nav ul li a:hover {
+	border-bottom: groove 2px #fff;
+}
+
+
+li {
+	list-style:none;
+	margin-left:-25px;
+	
+	}
+
+li a {
+		text-decoration:none;
+		margin-right:15px;
+}
+
+
+
+
+#copyRights {
+	margin-left:550px;	
+	font-size:12px;
+}
+
+td {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+
+#mainfooter {
+	background-color:#272b2e;
+	color:#daa520;
+	clear:both;
+}
+
+		
+
+#spa1 { 
+	background:url(images/imagespritesfinal.png);
+		background-position: 0px -150px;
+			width:205px;
+			height:150px;
+			
+
+}
+
+#spa2 { 
+	background:url(images/imagespritesfinal.png);
+		background-position: -206px -150px;
+			width:205px;
+			height:150px;
+			
+}
+#gym1 { 
+	background:url(images/imagespritesfinal.png);
+		background-position: -417px -150px;
+			width:205px;
+			height:150px;
+			
+}
+#gym2 { 
+	background:url(images/imagespritesfinal.png);
+		background-position: -627px -150px;
+			width:205px;
+			height:150px;
+}
+
+
+figure ul li img{
+	display:block;
+	float:left;
+	margin-left:5px;
+	margin-right:15px;
+		
+}
+#captionalignment {
+	clear:both;
+	
+}
+section ul li {
+	float:left;
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:-10px;
+	padding:0;
+}
+	
+
+	
